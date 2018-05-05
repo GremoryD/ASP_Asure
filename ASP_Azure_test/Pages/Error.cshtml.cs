@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace ASP_Asure.Pages
+namespace ASP_Azure_test.Pages
 {
     public class ErrorModel : PageModel
     {
